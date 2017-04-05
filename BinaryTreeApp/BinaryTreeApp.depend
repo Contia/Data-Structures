@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1491411188 source:/home/contia/CodeBlocks/DataStructures/BinaryTreeApp/binaryTree.cpp
+	"binaryTree.h"
+	<iostream>
+	<cstring>
+
+1491129687 /home/contia/CodeBlocks/DataStructures/BinaryTreeApp/binaryTree.h
+
+1491411191 source:/home/contia/CodeBlocks/DataStructures/BinaryTreeApp/main.cpp
+	<iostream>
+	"binaryTree.h"
+	<time.h>
+	<stdlib.h>
+
